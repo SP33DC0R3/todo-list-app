@@ -61,4 +61,5 @@ The To-Do List Application is a simple tool for managing tasks and increasing pr
 - Each instance of the application operates independently with its own todo list.
 - Customize the application by modifying the UI, colors, fonts, or adding new features.
 
-For more information or assistance, feel free to contact us.
+For more information or assistance, feel free to contact us.  
+Gmail: aelizamer95@gmail.com
