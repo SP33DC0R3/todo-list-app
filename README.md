@@ -1,6 +1,9 @@
 # To-Do List Application
 
 ## Description
+Introducing my first-ever app! As a beginner in python development and still learning the ropes, I'm a bit nervous but excited to share this project with you. Please keep in mind that this app is not at a big production level app, and there might be some bugs or areas that need improvement. However, I've put in a lot of effort to make it functional and user-friendly, and I'm eager to hear your feedback to continue learning and improving. Thank you for trying out my early work in this journey of learning app development!
+
+## About This App
 The To-Do List Application is a simple tool for managing tasks and increasing productivity. It allows users to add, edit, complete, and remove tasks from their to-do list.
 
 ## How to Run the Application
@@ -8,7 +11,7 @@ The To-Do List Application is a simple tool for managing tasks and increasing pr
 1. Ensure Python is installed on your system.
 2. Clone or download the source code of the application using `git clone https://github.com/SP33DC0R3/todo-list-app.git`.
 3. Install dependencies using `pip install -r requirements.txt`.
-4. Run the application using `python main.py`.
+4. Run the application using `python cli.py`.
 
 ### Windows .exe File:
 1. Download the provided .exe file.
@@ -60,6 +63,3 @@ The To-Do List Application is a simple tool for managing tasks and increasing pr
 - Backup your todo list file regularly to prevent data loss.
 - Each instance of the application operates independently with its own todo list.
 - Customize the application by modifying the UI, colors, fonts, or adding new features.
-
-For more information or assistance, feel free to contact us.  
-Gmail: aelizamer95@gmail.com
